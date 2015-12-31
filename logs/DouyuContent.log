@@ -1,0 +1,8 @@
+2015-12-31 12:25:53 INFO InfoThead:16 - Sub:读写配置
+2015-12-31 12:25:53 INFO SetSystemProperty:62 - room键的值是：10023
+2015-12-31 12:25:53 INFO SetSystemProperty:62 - Timeout键的值是：2
+2015-12-31 12:25:53 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：5000
+2015-12-31 12:25:53 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：5000
+2015-12-31 12:25:53 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：30000
+2015-12-31 12:25:53 INFO InfoThead:40 - 2:5000:5000
+2015-12-31 12:25:53 INFO DownloaderThead:27 - Sub:初始化录像进程
